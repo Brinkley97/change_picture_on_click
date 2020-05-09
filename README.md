@@ -16,4 +16,4 @@ Version 1.0.0
 
 ---
 ## Copyright and License
-Contributors
+- Contributors
